@@ -20,3 +20,7 @@ postman request POST 'http://localhost:8080/chat' \
   "message": "What is html"
 }'
 
+Url:-
+To get updated url for Gemini you can visit https://ai.google.dev/gemini-api/docs 
+Go to Gemini API and click Rest you will get the update url.
+
